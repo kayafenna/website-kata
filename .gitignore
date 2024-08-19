@@ -1,0 +1,5 @@
+.DS_Store
+public
+resources
+*.lock
+hugo-scroll.code-workspace
